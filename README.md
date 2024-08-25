@@ -1,16 +1,12 @@
-## Hi there 👋
+# About me 👋😃
 
-<!--
-**emilmf/emilmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emilio Murillo Fernández, a passionate designer and aspiring software engineer from Costa Rica. I love creating visually appealing designs and am currently diving into the world of mobile app development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: A mobile app using Kotlin and Jetpack Compose.
+- 🌱 I’m currently learning: Python and mobile app development for Android.
+- 👯 I’m looking to collaborate on: Projects related to UX/UI design and mobile applications.
+- 🤔 I’m looking for help with: Improving my coding skills, especially in Kotlin and Python.
+- 💬 Ask me about: Graphic design, UX/UI, and how to start learning programming.
+- 📫 How to reach me: [Your preferred contact method here].
+- ⚡ Fun fact: I speak Spanish and LESCO, and I’m passionate about combining technology with creativity.
+  
